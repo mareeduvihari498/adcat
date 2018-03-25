@@ -1,1 +1,2 @@
 we need tesseract for this project we make use python ide for building it and for windows we need to download it from us manehattan
+for linux we can make use pip 
